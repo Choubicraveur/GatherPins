@@ -1,0 +1,12 @@
+-- GatherPins.toc
+
+## Interface: 30300
+## Title: GatherPins
+## Notes: Display pins for items on world map and minimap
+## Version: 0.1
+## Author: Swider
+## SavedVariables: GatherPinsFilterDB
+## SavedVariablesPerCharacter: GatherPinsDB
+
+GatherPins_Data.lua
+GatherPins.lua
